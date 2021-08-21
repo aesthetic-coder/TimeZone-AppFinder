@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&display=swap');
+body{
+    font-family: 'Comfortaa', cursive;
+    text-align: center;
+    width: 350px;
+}
+img{
+    width: 55px;
+    padding: 5px;
+}
+a{
+    text-decoration: none;
+}
+.fa{
+    padding: 15px;
+    font-size: 30px;
+    color: black;
+}
+
+#showTimeZone{
+    font-size: 20px;
+}
+
+button{
+    font-size: 15px
+
+}
